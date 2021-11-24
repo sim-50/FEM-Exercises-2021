@@ -1,2 +1,8 @@
-# FEM-Exercises-2021
-Challenge exercises in Front End Mentor
+# Frontend Mentor - Git Repository of Exercises
+
+### List of Exercises
+
+- Order Summary Component (Focus on HTML & CSS)
+
+
+
