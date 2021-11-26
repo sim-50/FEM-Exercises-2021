@@ -6,12 +6,11 @@
     --color-neutral-blue-200: rgb(114, 128, 167);
     --color-neutral-blue-300: rgb(31, 47, 86);
 }
-/* what does box-sizing used for? */
+
 html {
     box-sizing: border-box;
 }
 
-/* what are the functions of ::before and ::after here?  */
 *, *::before, *::after {
     box-sizing: inherit;
     margin: 0;
@@ -40,7 +39,6 @@ body {
     min-width: 0.4375rem;
     border-radius: 1.25rem;
     overflow: hidden;
-    /* still need to learn about box-shadow thing */
     box-shadow: 0 40px 40px -20px rgba(13, 48, 189, 15.18%);
 }
 
@@ -117,7 +115,6 @@ body {
     margin-top: 2.2rem;
     font-size: 0.785rem;
     font-weight: 700;
-    /* about box shadow ?? */
     box-shadow: 0 20px 20px 0 rgba(56, 42, 225, 15%);
 }
 
